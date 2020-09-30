@@ -1,2 +1,2 @@
 # Hello-World
-Je m'appelle Ludo et je suis content d'apprendre à créer une branche et ensuite je vais faire un commit heu nananananèèèèèèèreuh
+Je m'appelle Ludo et je suis content d'apprendre à créer une branche et je souhaite essayer de voir ce qui peut bloquer un merge ...
